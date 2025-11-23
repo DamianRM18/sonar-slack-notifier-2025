@@ -20,3 +20,11 @@ Como SysAdmin, compilar código Java en entornos de producción no siempre es vi
 2. Copia el archivo en la carpeta de plugins de tu servidor:
    ```bash
    cp sonar-slack-notifier-*.jar /opt/sonarqube/extensions/plugins/
+3. Reinicia SonarQube.
+
+⚖️ Créditos y Licencia
+
+Todo el crédito del código fuente pertenece a zyclonite y los autores originales. Este repositorio solo sirve como canal de distribución de los binarios compilados.
+
+Licencia: GNU LGPL 3.0 (Heredada del proyecto original).
+
